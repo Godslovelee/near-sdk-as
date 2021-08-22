@@ -1,5 +1,5 @@
 # Near Bindings Generator 
-Transforms the Assembyscript AST to serialize exported functions and add `encode` and `decode` functions for generating and parsing JSON strings.jh
+Transforms the Assembyscript AST to serialize exported functions and add `encode` and `decode` functions for generating and parsing JSON strings.
 
 ## Using via CLI
 
